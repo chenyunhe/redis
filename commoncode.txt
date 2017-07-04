@@ -1,0 +1,6 @@
+incr 给key增加值
+incrby 给指定key增加值
+decr给key减少值
+decrby给指定Key减少值
+
+防止并发 可用
